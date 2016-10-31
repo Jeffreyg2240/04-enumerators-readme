@@ -16,9 +16,8 @@ Enumerator methods allow us to iterate over every member of a collection and *do
 
 ### Why do we need Enumerators?
 
-Let's revisit our earlier example of Professor Snape's list of Hogwarts students. Professor Snape is having a bad day and he'd like to vent some of that frustration by turning each of his students into a frog. He therefore needs to perform a certain action on each student. 
+Let's take a look at Professor Snape's list of Hogwarts students. Professor Snape is having a bad day and he'd like to vent some of that frustration by turning each of his students into a frog. He therefore needs to perform a certain action on each student. 
 
-Let's take a look at our student array: 
 
 `students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfroy"]`
 
